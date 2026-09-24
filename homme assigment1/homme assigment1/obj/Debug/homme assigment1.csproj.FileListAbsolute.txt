@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\niiic\homme assigment1\homme assigment1\bin\Debug\homme assigment1.exe.config
+C:\Users\pc\Documents\niiic\homme assigment1\homme assigment1\bin\Debug\homme assigment1.exe
+C:\Users\pc\Documents\niiic\homme assigment1\homme assigment1\bin\Debug\homme assigment1.pdb
+C:\Users\pc\Documents\niiic\homme assigment1\homme assigment1\obj\Debug\homme assigment1.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\niiic\homme assigment1\homme assigment1\obj\Debug\homme_assigment1.Form1.resources
+C:\Users\pc\Documents\niiic\homme assigment1\homme assigment1\obj\Debug\homme_assigment1.Properties.Resources.resources
+C:\Users\pc\Documents\niiic\homme assigment1\homme assigment1\obj\Debug\homme assigment1.csproj.GenerateResource.cache
+C:\Users\pc\Documents\niiic\homme assigment1\homme assigment1\obj\Debug\homme assigment1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\niiic\homme assigment1\homme assigment1\obj\Debug\homme assigment1.exe
+C:\Users\pc\Documents\niiic\homme assigment1\homme assigment1\obj\Debug\homme assigment1.pdb
