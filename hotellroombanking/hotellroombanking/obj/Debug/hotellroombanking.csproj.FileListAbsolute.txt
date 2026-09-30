@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\hotellroombanking\hotellroombanking\bin\Debug\hotellroombanking.exe.config
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\hotellroombanking\hotellroombanking\bin\Debug\hotellroombanking.exe
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\hotellroombanking\hotellroombanking\bin\Debug\hotellroombanking.pdb
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\hotellroombanking\hotellroombanking\obj\Debug\hotellroombanking.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\hotellroombanking\hotellroombanking\obj\Debug\hotellroombanking.Form1.resources
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\hotellroombanking\hotellroombanking\obj\Debug\hotellroombanking.Properties.Resources.resources
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\hotellroombanking\hotellroombanking\obj\Debug\hotellroombanking.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\hotellroombanking\hotellroombanking\obj\Debug\hotellroombanking.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\hotellroombanking\hotellroombanking\obj\Debug\hotellroombanking.exe
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\hotellroombanking\hotellroombanking\obj\Debug\hotellroombanking.pdb
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\hotellroombanking\hotellroombanking\obj\Debug\hotellroombanking.exe.config

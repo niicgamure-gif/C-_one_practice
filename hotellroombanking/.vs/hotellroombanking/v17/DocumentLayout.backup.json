@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\NAHWA MOHAMED ABDIKADIR\\hotellroombanking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4605C1CF-5A01-47B3-89C1-D244CB19AAA0}|hotellroombanking\\hotellroombanking.csproj|C:\\Users\\pc\\Desktop\\NAHWA MOHAMED ABDIKADIR\\hotellroombanking\\hotellroombanking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4605C1CF-5A01-47B3-89C1-D244CB19AAA0}|hotellroombanking\\hotellroombanking.csproj|solutionrelative:hotellroombanking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4605C1CF-5A01-47B3-89C1-D244CB19AAA0}|hotellroombanking\\hotellroombanking.csproj|c:\\users\\pc\\desktop\\nahwa mohamed abdikadir\\hotellroombanking\\hotellroombanking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4605C1CF-5A01-47B3-89C1-D244CB19AAA0}|hotellroombanking\\hotellroombanking.csproj|solutionrelative:hotellroombanking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\NAHWA MOHAMED ABDIKADIR\\hotellroombanking\\hotellroombanking\\Form1.cs",
+              "RelativeDocumentMoniker": "hotellroombanking\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\NAHWA MOHAMED ABDIKADIR\\hotellroombanking\\hotellroombanking\\Form1.cs",
+              "RelativeToolTip": "hotellroombanking\\Form1.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAjwEQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T16:51:17.647Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\NAHWA MOHAMED ABDIKADIR\\hotellroombanking\\hotellroombanking\\Form1.cs",
+              "RelativeDocumentMoniker": "hotellroombanking\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\NAHWA MOHAMED ABDIKADIR\\hotellroombanking\\hotellroombanking\\Form1.cs [Design]",
+              "RelativeToolTip": "hotellroombanking\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T16:50:07.62Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
