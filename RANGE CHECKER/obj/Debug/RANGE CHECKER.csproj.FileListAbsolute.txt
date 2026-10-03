@@ -1,0 +1,5 @@
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\RANGE CHECKER\RANGE CHECKER\obj\Debug\RANGE CHECKER.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\RANGE CHECKER\RANGE CHECKER\obj\Debug\RANGE_CHECKER.Form1.resources
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\RANGE CHECKER\RANGE CHECKER\obj\Debug\RANGE_CHECKER.Properties.Resources.resources
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\RANGE CHECKER\RANGE CHECKER\obj\Debug\RANGE CHECKER.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\NAHWA MOHAMED ABDIKADIR\RANGE CHECKER\RANGE CHECKER\obj\Debug\RANGE CHECKER.csproj.CoreCompileInputs.cache
