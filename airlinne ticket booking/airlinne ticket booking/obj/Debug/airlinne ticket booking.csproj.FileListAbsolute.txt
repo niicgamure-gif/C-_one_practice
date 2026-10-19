@@ -1,0 +1,11 @@
+C:\Users\pc\Videos\c#_one_practice\airlinne ticket booking\airlinne ticket booking\bin\Debug\airlinne ticket booking.exe.config
+C:\Users\pc\Videos\c#_one_practice\airlinne ticket booking\airlinne ticket booking\bin\Debug\airlinne ticket booking.exe
+C:\Users\pc\Videos\c#_one_practice\airlinne ticket booking\airlinne ticket booking\bin\Debug\airlinne ticket booking.pdb
+C:\Users\pc\Videos\c#_one_practice\airlinne ticket booking\airlinne ticket booking\obj\Debug\airlinne ticket booking.csproj.AssemblyReference.cache
+C:\Users\pc\Videos\c#_one_practice\airlinne ticket booking\airlinne ticket booking\obj\Debug\airlinne_ticket_booking.Form1.resources
+C:\Users\pc\Videos\c#_one_practice\airlinne ticket booking\airlinne ticket booking\obj\Debug\airlinne_ticket_booking.Properties.Resources.resources
+C:\Users\pc\Videos\c#_one_practice\airlinne ticket booking\airlinne ticket booking\obj\Debug\airlinne ticket booking.csproj.GenerateResource.cache
+C:\Users\pc\Videos\c#_one_practice\airlinne ticket booking\airlinne ticket booking\obj\Debug\airlinne ticket booking.csproj.CoreCompileInputs.cache
+C:\Users\pc\Videos\c#_one_practice\airlinne ticket booking\airlinne ticket booking\obj\Debug\airlinne ticket booking.exe
+C:\Users\pc\Videos\c#_one_practice\airlinne ticket booking\airlinne ticket booking\obj\Debug\airlinne ticket booking.pdb
+C:\Users\pc\Videos\c#_one_practice\airlinne ticket booking\airlinne ticket booking\obj\Debug\airlinne ticket booking.exe.config

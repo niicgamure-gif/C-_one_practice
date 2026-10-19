@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Videos\\c#_one_practice\\vehickle rental management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB33C54-9AD3-41B9-8F6C-F07C76BA2CB2}|vehickle rental management\\vehickle rental management.csproj|c:\\users\\pc\\videos\\c#_one_practice\\vehickle rental management\\vehickle rental management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FB33C54-9AD3-41B9-8F6C-F07C76BA2CB2}|vehickle rental management\\vehickle rental management.csproj|solutionrelative:vehickle rental management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB33C54-9AD3-41B9-8F6C-F07C76BA2CB2}|vehickle rental management\\vehickle rental management.csproj|C:\\Users\\pc\\Videos\\c#_one_practice\\vehickle rental management\\vehickle rental management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB33C54-9AD3-41B9-8F6C-F07C76BA2CB2}|vehickle rental management\\vehickle rental management.csproj|solutionrelative:vehickle rental management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Videos\\c#_one_practice\\vehickle rental management\\vehickle rental management\\Form1.cs",
+              "RelativeDocumentMoniker": "vehickle rental management\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Videos\\c#_one_practice\\vehickle rental management\\vehickle rental management\\Form1.cs",
+              "RelativeToolTip": "vehickle rental management\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:57:39.205Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Videos\\c#_one_practice\\vehickle rental management\\vehickle rental management\\Form1.cs",
+              "RelativeDocumentMoniker": "vehickle rental management\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Videos\\c#_one_practice\\vehickle rental management\\vehickle rental management\\Form1.cs [Design]",
+              "RelativeToolTip": "vehickle rental management\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:37:35.803Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

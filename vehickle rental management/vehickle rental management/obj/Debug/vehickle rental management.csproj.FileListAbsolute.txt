@@ -1,0 +1,11 @@
+C:\Users\pc\Videos\c#_one_practice\vehickle rental management\vehickle rental management\bin\Debug\vehickle rental management.exe.config
+C:\Users\pc\Videos\c#_one_practice\vehickle rental management\vehickle rental management\bin\Debug\vehickle rental management.exe
+C:\Users\pc\Videos\c#_one_practice\vehickle rental management\vehickle rental management\bin\Debug\vehickle rental management.pdb
+C:\Users\pc\Videos\c#_one_practice\vehickle rental management\vehickle rental management\obj\Debug\vehickle rental management.csproj.AssemblyReference.cache
+C:\Users\pc\Videos\c#_one_practice\vehickle rental management\vehickle rental management\obj\Debug\vehickle_rental_management.Form1.resources
+C:\Users\pc\Videos\c#_one_practice\vehickle rental management\vehickle rental management\obj\Debug\vehickle_rental_management.Properties.Resources.resources
+C:\Users\pc\Videos\c#_one_practice\vehickle rental management\vehickle rental management\obj\Debug\vehickle rental management.csproj.GenerateResource.cache
+C:\Users\pc\Videos\c#_one_practice\vehickle rental management\vehickle rental management\obj\Debug\vehickle rental management.csproj.CoreCompileInputs.cache
+C:\Users\pc\Videos\c#_one_practice\vehickle rental management\vehickle rental management\obj\Debug\vehickle rental management.exe
+C:\Users\pc\Videos\c#_one_practice\vehickle rental management\vehickle rental management\obj\Debug\vehickle rental management.pdb
+C:\Users\pc\Videos\c#_one_practice\vehickle rental management\vehickle rental management\obj\Debug\vehickle rental management.exe.config
