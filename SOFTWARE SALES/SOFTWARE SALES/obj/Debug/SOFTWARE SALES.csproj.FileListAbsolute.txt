@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\c#_one_practice\SOFTWARE SALES\SOFTWARE SALES\obj\Debug\SOFTWARE SALES.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\c#_one_practice\SOFTWARE SALES\SOFTWARE SALES\obj\Debug\SOFTWARE_SALES.Form1.resources
+C:\Users\pc\Desktop\c#_one_practice\SOFTWARE SALES\SOFTWARE SALES\obj\Debug\SOFTWARE_SALES.Properties.Resources.resources
+C:\Users\pc\Desktop\c#_one_practice\SOFTWARE SALES\SOFTWARE SALES\obj\Debug\SOFTWARE SALES.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\c#_one_practice\SOFTWARE SALES\SOFTWARE SALES\obj\Debug\SOFTWARE SALES.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\c#_one_practice\SOFTWARE SALES\SOFTWARE SALES\bin\Debug\SOFTWARE SALES.exe.config
+C:\Users\pc\Desktop\c#_one_practice\SOFTWARE SALES\SOFTWARE SALES\bin\Debug\SOFTWARE SALES.exe
+C:\Users\pc\Desktop\c#_one_practice\SOFTWARE SALES\SOFTWARE SALES\bin\Debug\SOFTWARE SALES.pdb
+C:\Users\pc\Desktop\c#_one_practice\SOFTWARE SALES\SOFTWARE SALES\obj\Debug\SOFTWARE SALES.exe
+C:\Users\pc\Desktop\c#_one_practice\SOFTWARE SALES\SOFTWARE SALES\obj\Debug\SOFTWARE SALES.pdb
+C:\Users\pc\Desktop\c#_one_practice\SOFTWARE SALES\SOFTWARE SALES\obj\Debug\SOFTWARE SALES.exe.config
