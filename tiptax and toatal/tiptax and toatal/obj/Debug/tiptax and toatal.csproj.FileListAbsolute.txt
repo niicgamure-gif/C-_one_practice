@@ -1,0 +1,22 @@
+C:\Users\pc\Documents\nahwa mohamed abdikadir\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax and toatal.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\nahwa mohamed abdikadir\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax_and_toatal.Form1.resources
+C:\Users\pc\Documents\nahwa mohamed abdikadir\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax_and_toatal.Properties.Resources.resources
+C:\Users\pc\Documents\nahwa mohamed abdikadir\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax and toatal.csproj.GenerateResource.cache
+C:\Users\pc\Documents\nahwa mohamed abdikadir\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax and toatal.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\nahwa mohamed abdikadir\tiptax and toatal\tiptax and toatal\bin\Debug\tiptax and toatal.exe.config
+C:\Users\pc\Documents\nahwa mohamed abdikadir\tiptax and toatal\tiptax and toatal\bin\Debug\tiptax and toatal.exe
+C:\Users\pc\Documents\nahwa mohamed abdikadir\tiptax and toatal\tiptax and toatal\bin\Debug\tiptax and toatal.pdb
+C:\Users\pc\Documents\nahwa mohamed abdikadir\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax and toatal.exe
+C:\Users\pc\Documents\nahwa mohamed abdikadir\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax and toatal.pdb
+C:\Users\pc\Documents\nahwa mohamed abdikadir\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax and toatal.exe.config
+C:\Users\pc\Videos\naxwo\tiptax and toatal\tiptax and toatal\bin\Debug\tiptax and toatal.exe.config
+C:\Users\pc\Videos\naxwo\tiptax and toatal\tiptax and toatal\bin\Debug\tiptax and toatal.exe
+C:\Users\pc\Videos\naxwo\tiptax and toatal\tiptax and toatal\bin\Debug\tiptax and toatal.pdb
+C:\Users\pc\Videos\naxwo\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax and toatal.csproj.AssemblyReference.cache
+C:\Users\pc\Videos\naxwo\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax and toatal.exe.config
+C:\Users\pc\Videos\naxwo\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax_and_toatal.Form1.resources
+C:\Users\pc\Videos\naxwo\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax_and_toatal.Properties.Resources.resources
+C:\Users\pc\Videos\naxwo\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax and toatal.csproj.GenerateResource.cache
+C:\Users\pc\Videos\naxwo\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax and toatal.csproj.CoreCompileInputs.cache
+C:\Users\pc\Videos\naxwo\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax and toatal.exe
+C:\Users\pc\Videos\naxwo\tiptax and toatal\tiptax and toatal\obj\Debug\tiptax and toatal.pdb
